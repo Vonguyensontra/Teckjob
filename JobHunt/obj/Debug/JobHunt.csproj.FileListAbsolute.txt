@@ -1,0 +1,1335 @@
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\PagedList.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\WebGrease.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\PagedList.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\Thuc tap tot nghiep (TTTN)\Project\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Owin.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\WebGrease.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Rotativa.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Excel.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\FastMember.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Excel.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\FastMember.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Owin.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Rotativa.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\WebGrease.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\Work\Projects\.NET\DATN\Thuc tap tot nghiep (TTTN)\Final project\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.dll.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\ClosedXML.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Excel.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\FastMember.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.BU.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Model.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Owin.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\PagedList.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Rotativa.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\ClosedXML.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\ClosedXML.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\PagedList.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+C:\Users\Admin\Desktop\Bin\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.dll.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csc.exe
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csc.rsp
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csi.exe
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\csi.rsp
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\vbc.exe
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\ClosedXML.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\EntityFramework.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Excel.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\FastMember.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.BU.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Model.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Owin.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\PagedList.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Rotativa.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Razor.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\WebGrease.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\ClosedXML.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\ClosedXML.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\PagedList.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.Razor.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\EntityFramework.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cuong\Downloads\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+C:\Users\cuong\Downloads\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Downloads\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+C:\Users\cuong\Downloads\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+C:\Users\cuong\Downloads\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Excel.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\FastMember.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Owin.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\PagedList.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Rotativa.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\WebGrease.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\PagedList.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\MMO\ShareCode\JobHunt\JobHunt\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\job\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\job\JobHunt\JobHunt\bin\JobHunt.dll
+D:\job\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\job\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\job\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\job\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\job\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\job\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\job\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\job\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\job\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\job\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\job\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\job\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\job\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\job\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\job\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\job\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\job\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\job\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\job\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\job\JobHunt\JobHunt\bin\Excel.dll
+D:\job\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\job\JobHunt\JobHunt\bin\FastMember.dll
+D:\job\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\job\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\job\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\job\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\job\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\job\JobHunt\JobHunt\bin\Owin.dll
+D:\job\JobHunt\JobHunt\bin\PagedList.dll
+D:\job\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\job\JobHunt\JobHunt\bin\Rotativa.dll
+D:\job\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\job\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\job\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\job\JobHunt\JobHunt\bin\WebGrease.dll
+D:\job\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\job\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\job\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\job\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\job\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\job\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\job\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\job\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\job\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\job\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\job\JobHunt\JobHunt\bin\PagedList.xml
+D:\job\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\job\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\job\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\job\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\job\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\job\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\job\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\job\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\job\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.AssemblyReference.cache
+D:\job\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\job\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\job\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\job\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\.NET MVC\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET MVC\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Excel.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\FastMember.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Owin.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\PagedList.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\Rotativa.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\WebGrease.dll
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\.NET MVC\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\PagedList.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\.NET MVC\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\.NET MVC\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET MVC\JobHunt\JobHunt\obj\Debug\JobHunt.csprojAssemblyReference.cache
+D:\.NET MVC\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\.NET MVC\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\.NET MVC\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\.NET MVC\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.dll
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\Capstone\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\Capstone\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\Capstone\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\Capstone\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\Capstone\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\Capstone\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\Capstone\JobHunt\JobHunt\bin\Excel.dll
+D:\Capstone\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\Capstone\JobHunt\JobHunt\bin\FastMember.dll
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\Capstone\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\Capstone\JobHunt\JobHunt\bin\Owin.dll
+D:\Capstone\JobHunt\JobHunt\bin\PagedList.dll
+D:\Capstone\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\Capstone\JobHunt\JobHunt\bin\Rotativa.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\Capstone\JobHunt\JobHunt\bin\WebGrease.dll
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\Capstone\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\Capstone\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\Capstone\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\Capstone\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\Capstone\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\Capstone\JobHunt\JobHunt\bin\PagedList.xml
+D:\Capstone\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\Capstone\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\Capstone\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\Capstone\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\Capstone\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Capstone\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Capstone\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Capstone\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.AssemblyReference.cache
+D:\Capstone\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\Capstone\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\Capstone\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\Capstone\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.dll.config
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.dll
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.pdb
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csc.exe
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csc.exe.config
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csc.rsp
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csi.exe
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csi.exe.config
+D:\sontra\JobHunt\JobHunt\bin\roslyn\csi.rsp
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sontra\JobHunt\JobHunt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.AppContext.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Collections.Immutable.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Console.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.IO.Compression.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.IO.Pipes.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Reflection.Metadata.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.AccessControl.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Claims.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Security.Principal.Windows.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.ValueTuple.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sontra\JobHunt\JobHunt\bin\roslyn\vbc.exe
+D:\sontra\JobHunt\JobHunt\bin\roslyn\vbc.exe.config
+D:\sontra\JobHunt\JobHunt\bin\roslyn\vbc.rsp
+D:\sontra\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe
+D:\sontra\JobHunt\JobHunt\bin\roslyn\VBCSCompiler.exe.config
+D:\sontra\JobHunt\JobHunt\bin\Antlr3.Runtime.dll
+D:\sontra\JobHunt\JobHunt\bin\ApiMultiPartFormData.dll
+D:\sontra\JobHunt\JobHunt\bin\ClosedXML.dll
+D:\sontra\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.dll
+D:\sontra\JobHunt\JobHunt\bin\EntityFramework.dll
+D:\sontra\JobHunt\JobHunt\bin\EntityFramework.SqlServer.dll
+D:\sontra\JobHunt\JobHunt\bin\Excel.dll
+D:\sontra\JobHunt\JobHunt\bin\ExcelNumberFormat.dll
+D:\sontra\JobHunt\JobHunt\bin\FastMember.dll
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.BU.dll
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Model.dll
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Repository.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Web.Infrastructure.dll
+D:\sontra\JobHunt\JobHunt\bin\Newtonsoft.Json.dll
+D:\sontra\JobHunt\JobHunt\bin\Owin.dll
+D:\sontra\JobHunt\JobHunt\bin\PagedList.dll
+D:\sontra\JobHunt\JobHunt\bin\PagedList.Mvc.dll
+D:\sontra\JobHunt\JobHunt\bin\Rotativa.dll
+D:\sontra\JobHunt\JobHunt\bin\Swashbuckle.Core.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.dll
+D:\sontra\JobHunt\JobHunt\bin\System.IO.FileSystem.Primitives.dll
+D:\sontra\JobHunt\JobHunt\bin\System.IO.Packaging.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Net.Http.Formatting.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Helpers.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Http.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Http.WebHost.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Mvc.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Optimization.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Razor.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.dll
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.dll
+D:\sontra\JobHunt\JobHunt\bin\WebActivatorEx.dll
+D:\sontra\JobHunt\JobHunt\bin\WebGrease.dll
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.BU.pdb
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.BU.dll.config
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Model.pdb
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Model.dll.config
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Repository.pdb
+D:\sontra\JobHunt\JobHunt\bin\JobHunt.Repository.dll.config
+D:\sontra\JobHunt\JobHunt\bin\ClosedXML.pdb
+D:\sontra\JobHunt\JobHunt\bin\ClosedXML.xml
+D:\sontra\JobHunt\JobHunt\bin\DocumentFormat.OpenXml.xml
+D:\sontra\JobHunt\JobHunt\bin\ExcelNumberFormat.xml
+D:\sontra\JobHunt\JobHunt\bin\PagedList.xml
+D:\sontra\JobHunt\JobHunt\bin\PagedList.Mvc.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Net.Http.Formatting.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Http.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Http.WebHost.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Helpers.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Mvc.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Optimization.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.Razor.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.Deployment.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Web.WebPages.Razor.xml
+D:\sontra\JobHunt\JobHunt\bin\Newtonsoft.Json.xml
+D:\sontra\JobHunt\JobHunt\bin\Antlr3.Runtime.pdb
+D:\sontra\JobHunt\JobHunt\bin\EntityFramework.xml
+D:\sontra\JobHunt\JobHunt\bin\EntityFramework.SqlServer.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Google.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\sontra\JobHunt\JobHunt\bin\System.Diagnostics.DiagnosticSource.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\sontra\JobHunt\JobHunt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sontra\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.AssemblyReference.cache
+D:\sontra\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CoreCompileInputs.cache
+D:\sontra\JobHunt\JobHunt\obj\Debug\JobHunt.csproj.CopyComplete
+D:\sontra\JobHunt\JobHunt\obj\Debug\JobHunt.dll
+D:\sontra\JobHunt\JobHunt\obj\Debug\JobHunt.pdb
